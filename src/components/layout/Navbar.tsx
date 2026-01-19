@@ -28,7 +28,7 @@ export function Navbar() {
 
     return (
         <nav className="sticky top-0 z-50 w-full border-b bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/60 shadow-sm">
-            <div className="container-custom flex h-20 items-center justify-between">
+            <div className="container-custom flex h-28 items-center justify-between">
                 {/* Logo */}
                 <Link href="/" className="flex items-center gap-5">
                     <div className="relative h-24 w-24">

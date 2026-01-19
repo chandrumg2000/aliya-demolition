@@ -16,7 +16,7 @@ export function Hero() {
                 <div className="absolute inset-0 bg-gradient-to-r from-slate-950/90 via-slate-950/70 to-slate-950/30" />
             </div>
 
-            <div className="container-custom relative z-10 py-20 lg:py-28 h-full">
+            <div className="container-custom relative z-10 pt-12 pb-20 lg:pt-20 lg:pb-28 h-full">
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
                     {/* Left Column: Content */}
                     <div className="max-w-3xl lg:max-w-none">
